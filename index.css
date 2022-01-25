@@ -1,0 +1,32 @@
+.nice {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img {
+    width: 500px;				
+    height: auto;				
+  
+}
+.img2 {
+    width: 500px;
+    height: auto;
+}
+.img3 {
+    width: 500px;
+    height: auto;
+}
+.img4 {
+    width: 500px;
+    height: auto;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+body {
+    background: rgb(19, 113, 74);
+}
